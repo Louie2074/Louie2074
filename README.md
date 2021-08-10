@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name's Louis and I'm a current Computer Science student at the University of Wisconsin - Madison.<br/>
 I'm always teaching myself something new, and I'll most likely be posting that process to GitHub.
 
-🔭.Feel free to check out my website: https://louisnguyen.me <br/>
+😄 Feel free to check out my website: https://louisnguyen.me <br/>
 📫 Connect with me on LinkedIn: www.linkedin.com/in/nguyen2001
 
 🌱 Areas of Interest:
@@ -26,3 +26,7 @@ I'm always teaching myself something new, and I'll most likely be posting that p
 * CyberSecurity
 * Blockchain
 * Fintech
+
+🔭 Currently:
+
+* Looking for a Paid Internship
