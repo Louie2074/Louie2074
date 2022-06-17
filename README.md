@@ -1,4 +1,4 @@
-# ### <samp>&gt; Hi there, I'm Louis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp>&gt; Hi there, I'm Louis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
 <p>I'm a current Computer Science and Data Science student at the University of Wisconsin - Madison. <br>I'm passionate about building cool applications and tools that people can see and use in their everyday lives. <br>
