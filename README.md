@@ -1,7 +1,7 @@
 # <samp>&gt; Hi there, I'm Louis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-<p>I'm a Software Engineer currently building Full Stack Web Applications and scaling Data Pipelines. <br>I'm passionate about building cool things that people can see and use in their everyday lives. <br>
+<p>I'm a new grad Software Engineer with a degree in computer science and data science. <br>I'm passionate about building cool things that people can see and use in their everyday lives. <br>
 I'm always self teaching myself something new, and I'll most likely be posting that process to GitHub.</p>
 
 <p>😃 Check out my <a href = "https://louisnguyen.me">Website</a><p>
@@ -14,13 +14,14 @@ I'm always self teaching myself something new, and I'll most likely be posting t
 <li>BlockChain ⚡️</li>
 <li>Mobile Applications Development 📲</li>
 <li>Cybersecurity 🔐</li>
-<li>Quantitative Development 📈</li>
+<li>Computational Finance 📈</li>
 </ul>
 
 <h5>🔭 Currently:</h5>
 
 <ul>
-<li>Back End Stuff</li>
+<li>Building Full Stack Web Applications</li>
+<li>Scaling Data Pipelines</li>
 </ul>
 -----------------------------------------
 <br>
