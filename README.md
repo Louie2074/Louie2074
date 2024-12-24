@@ -20,8 +20,8 @@ I'm always teaching myself something new, and I'll most likely be posting that p
 <h5>🔭 Currently:</h5>
 
 <ul>
-<li>Building Full Stack Web Applications</li>
-<li>Scaling Data Pipelines</li>
+<li>Building Full Stack Apps</li>
+<li>Data Engineering Stuff</li>
 </ul>
 -----------------------------------------
 <br>
