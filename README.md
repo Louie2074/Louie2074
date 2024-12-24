@@ -2,7 +2,7 @@
 
 
 <p>I'm a new grad Software Engineer with a degree in computer science and data science. <br>I'm passionate about building cool things and tackling complex engineering challenges. <br>
-I'm always self teaching myself something new, and I'll most likely be posting that process to GitHub.</p>
+I'm always teaching myself something new, and I'll most likely be posting that process to GitHub.</p>
 
 <p>😃 Check out my <a href = "https://louisnguyen.me">Website</a><p>
 <p>📫 Connect with me on <a href = "https://www.linkedin.com/in/nguyen2001">Linkedin</a><p>
@@ -12,8 +12,8 @@ I'm always self teaching myself something new, and I'll most likely be posting t
 <ul>
 <li>Full Stack Web Development 🧑‍💻</li>
 <li>BlockChain ⚡️</li>
-<li>Mobile Applications Development 📲</li>
-<li>Cybersecurity 🔐</li>
+<li>Data Pipelines 📲</li>
+<li>Automation 🔐</li>
 <li>Computational Finance 📈</li>
 </ul>
 
