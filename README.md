@@ -4,7 +4,7 @@
 <p>I'm a new grad Software Engineer with a degree in computer science and data science. <br>I'm passionate about building cool things and tackling complex engineering challenges. <br>
 I'm always teaching myself something new, and I'll most likely be posting that process to GitHub.</p>
 
-<p>😃 Check out my <a href = "https://louisnguyen.me">Website</a><p>
+<p>😃 Check out my <a href = "https://louiethedev.com/">Website</a><p>
 <p>📫 Connect with me on <a href = "https://www.linkedin.com/in/nguyen2001">Linkedin</a><p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="318" />
 -----------------------------------------
