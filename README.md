@@ -1,7 +1,7 @@
 # <samp>&gt; Hi there, I'm Louis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-<p>I'm a new grad Software Engineer with a degree in computer science and data science. <br>I'm passionate about building cool things and tackling complex engineering challenges. <br>
+<p>I'm a Software Engineer with a degree in computer science and data science. <br>I'm passionate about building cool things and tackling complex engineering challenges. <br>
 I'm always teaching myself something new, and I'll most likely be posting that process to GitHub.</p>
 
 <p>😃 Check out my <a href = "https://louiethedev.com/">Website</a><p>
